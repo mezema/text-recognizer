@@ -1,4 +1,4 @@
-"""Provide an image of handwritten text and get back out a string! Model was trained on the IAM Handwriting Database. Working to expand to other datasets as model doesn't work well on images with different image styles or paper backgrounds. This model is still in development, so please report any bugs you find!"""
+"""Provide an image of handwritten text and get back out a string! Model was trained on the IAM Handwriting Database. Working to expand to other datasets as model doesn't work well on images with different image styles or paper backgrounds."""
 import argparse
 import json
 import logging
